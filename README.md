@@ -83,13 +83,11 @@ Full implementation of the **ext2 filesystem** with a client-server architecture
 
 ## 📊 GitHub stats
 
-<div align="center">
 
 ![Miguel's GitHub Stats](https://github-readme-stats-miguel-tubac.vercel.app/api?username=miguel-tubac&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-miguel-tubac.vercel.app/api/top-langs/?username=miguel-tubac&layout=compact&theme=default&hide_border=true)
 
-</div>
 
 ---
 
