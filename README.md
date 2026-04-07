@@ -89,7 +89,7 @@ Full implementation of the **ext2 filesystem** with a client-server architecture
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguel-tubac&theme=default)
 
-
+![Skills](https://skillicons.dev/icons?i=python,django,fastapi,java,spring,js,ts,nodejs,react,docker,kubernetes,postgres,mysql,aws,go)
 </div>
 
 
