@@ -85,13 +85,11 @@ Full implementation of the **ext2 filesystem** with a client-server architecture
 
 <div align="center">
 
-![Miguel's GitHub Stats](https://github-readme-stats-miguel-tubac.vercel.app/api?username=miguel-tubac&show_icons=true&theme=default&hide_border=true)
+![Miguel's GitHub Stats](https://streak-stats.demolab.com?user=miguel-tubac&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats-miguel-tubac.vercel.app/api/top-langs/?username=miguel-tubac&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguel-tubac&theme=default)
 
-![stats](https://github-readme-stats.vercel.app/api?username=miguel-tubac&show_icons=true&cache_seconds=86400)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-tubac&layout=compact&cache_seconds=86400)
 </div>
 
 
